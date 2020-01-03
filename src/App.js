@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <h1>Lista dos afilhados ingratos:</h1>
-       <h2>Arthur Rohem Marconi</h2>
+       <h1>Lista dos afilhados cuzões:</h1>
+       <h2>Lázaro José</h2>
       </header>
     </div>
   );
